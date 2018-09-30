@@ -372,7 +372,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1140025910357742, guid: 118efdd877e08f94db8b8ba4780bf098, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 118efdd877e08f94db8b8ba4780bf098, type: 2}
@@ -812,7 +812,7 @@ Prefab:
     - target: {fileID: 114577812576859274, guid: 3d8165d4993ce374c94c86cf1ddf29b2,
         type: 2}
       propertyPath: kolvo_mod_max
-      value: 5000
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3d8165d4993ce374c94c86cf1ddf29b2, type: 2}
@@ -834,7 +834,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &1784119618
 AudioListener:
   m_ObjectHideFlags: 0
