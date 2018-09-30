@@ -305,11 +305,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ArcadeSpaceFlight\Code\Camera\LagCamera.cs" />
-    <Compile Include="Assets\ArcadeSpaceFlight\Code\Ship\auto_station.cs" />
     <Compile Include="Assets\ArcadeSpaceFlight\Code\Ship\not_random.cs" />
     <Compile Include="Assets\ArcadeSpaceFlight\Code\Ship\Ship.cs" />
     <Compile Include="Assets\ArcadeSpaceFlight\Code\Ship\ShipInput.cs" />
     <Compile Include="Assets\ArcadeSpaceFlight\Code\Ship\ShipPhysics.cs" />
+    <Compile Include="Assets\ArcadeSpaceFlight\Code\station\auto_station.cs" />
+    <Compile Include="Assets\ArcadeSpaceFlight\Code\station\random_station.cs" />
     <Compile Include="Assets\ArcadeSpaceFlight\Code\UI\MouseCrosshairUI.cs" />
     <Compile Include="Assets\ArcadeSpaceFlight\Code\UI\SpeedUI.cs" />
     <Compile Include="Assets\Game\controling.cs" />
